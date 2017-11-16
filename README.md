@@ -4,7 +4,7 @@
 
 Package Name : unitconvert
 
-![Travis Test](https://travis-ci.org/carcheezy94/unitconvert.svg?branch=master)
+[![Build Status](https://travis-ci.org/carcheezy94/unitconvert.svg?branch=master)](https://travis-ci.org/carcheezy94/unitconvert)
 
 Version : 0.0.1
 
